@@ -46,35 +46,59 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 
 
 ## Our Findings and Interpretations
-It is difficult to predict the goodness of a drama as a continuous variable.
-Predictors can be used to predict if a show is good (more than or equal to 7.5 average rating).
-The variables available to the public are better suited for popularity prediction in regression.
-3. Multivariate Linear Regression on average rating did not perform well.
-Multivariate Linear Regression on popularity is better but still not too good.
-5. More trees/estimators used for Random Forest Classification led to higher classification accuracy.
-6. A popular drama does not mean that it is a good drama.
-7. A drama that has a popular cast does not mean it will be a popular drama.
-8. A drama that has a popular cast is on fewer networks.
-9. A high accuracy decision tree classifier may be due to biased predictions.
-10.A small data range may cause a linear regression model to have low accuracy.
+
+1.It is difficult to predict the goodness of a drama as a continuous variable.
+
+2.Predictors can be used to predict if a show is good (more than or equal to 7.5 average rating).
+
+3.The variables available to the public are better suited for popularity prediction in regression.
+
+4. Multivariate Linear Regression on average rating did not perform well.
+ 
+5.Multivariate Linear Regression on popularity is better but still not too good.
+
+6. More trees/estimators used for Random Forest Classification led to higher classification accuracy.
+
+7. A popular drama does not mean that it is a good drama.
+  
+8. A drama that has a popular cast does not mean it will be a popular drama.
+   
+9. A drama that has a popular cast is on fewer networks.
+    
+10. A high accuracy decision tree classifier may be due to biased predictions.
+    
+11.A small data range may cause a linear regression model to have low accuracy.
+
 
 
 ## Learnt Data Science & AI Concepts Through This Journey
-Resampling imbalanced data.
-Random Forest classification for binary response.
-Natural Language Processing (NLP) and textual data cleaning methods.
-Tokenisation.
-Lemmatisation with parts of speech tags.
-Removal of stop words.
-Bag-of-words.
-Count and TF-IDF vectorisation methods.
-Pipeline use with TF-IDF Vectoriser and Random Forest Classifier.
-Classification reports, includes precision, recall and F1 score.
-Cosine similarity.
+
+1.Resampling imbalanced data.
+
+2.Random Forest classification for binary response.
+
+3.Natural Language Processing (NLP) and textual data cleaning methods.
+
+4.Tokenisation.
+
+5.Lemmatisation with parts of speech tags.
+
+6.Removal of stop words.
+
+7.Bag-of-words.
+
+8.Count and TF-IDF vectorisation methods.
+
+9.Pipeline use with TF-IDF Vectoriser and Random Forest Classifier.
+
+10.Classification reports, includes precision, recall and F1 score.
+
+11.Cosine similarity.
 
 
 
 References
+
 -<https://www.kaggle.com/datasets/robertonacu/tmdb-kdramas-2022?select=networks.csv>
 
 -<https://www.analyticsvidhya.com/blog/2022/01/movie-recommendation-engine-with-nlp/>
