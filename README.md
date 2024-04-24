@@ -15,7 +15,9 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 
 ## Contributors
 @deraren Darren Ng
+
 @alvis Alvis Cheng
+
 @Kappro Glenn Lim
 
 ## Problem Definition
