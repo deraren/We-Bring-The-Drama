@@ -45,7 +45,7 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 3. Random Forest Classification
 
 
-Our Findings and Interpretations
+## Our Findings and Interpretations
 It is difficult to predict the goodness of a drama as a continuous variable.
 Predictors can be used to predict if a show is good (more than or equal to 7.5 average rating).
 The variables available to the public are better suited for popularity prediction in regression.
@@ -59,7 +59,7 @@ Multivariate Linear Regression on popularity is better but still not too good.
 10.A small data range may cause a linear regression model to have low accuracy.
 
 
-Learnt Data Science & AI Concepts Through This Journey
+## Learnt Data Science & AI Concepts Through This Journey
 Resampling imbalanced data.
 Random Forest classification for binary response.
 Natural Language Processing (NLP) and textual data cleaning methods.
@@ -75,10 +75,15 @@ Cosine similarity.
 
 
 References
-<https://www.kaggle.com/datasets/robertonacu/tmdb-kdramas-2022?select=networks.csv>
-<https://www.analyticsvidhya.com/blog/2022/01/movie-recommendation-engine-with-nlp/>
-<https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/>
-<https://www.geeksforgeeks.org/python-lemmatization-with-nltk/>
-<https://www.machinelearningplus.com/nlp/lemmatization-examples-python/#wordnetlemmatizerwithappropriatepostag>
-<https://towardsdatascience.com/latent-semantic-analysis-sentiment-classification-with-python-5f657346f6a3>
+-<https://www.kaggle.com/datasets/robertonacu/tmdb-kdramas-2022?select=networks.csv>
+
+-<https://www.analyticsvidhya.com/blog/2022/01/movie-recommendation-engine-with-nlp/>
+
+-<https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/>
+
+-<https://www.geeksforgeeks.org/python-lemmatization-with-nltk/>
+
+-<https://www.machinelearningplus.com/nlp/lemmatization-examples-python/#wordnetlemmatizerwithappropriatepostag>
+
+-<https://towardsdatascience.com/latent-semantic-analysis-sentiment-classification-with-python-5f657346f6a3>
 
