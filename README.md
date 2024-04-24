@@ -5,13 +5,13 @@
 This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on dramas from [The Movie Database](https://www.kaggle.com/datasets/robertonacu/tmdb-kdramas-2022?select=networks.csv). 
 
 ## Notebooks Flow
-[Data Cleaning.ipynb - Compilation of necessary data from 5 CSVs.](https://github.com/deraren/We-Bring-The-Drama/blob/main/Data%20Cleaning%20.ipynb)
+1.[Data Cleaning - Compilation of necessary data from 5 CSVs.](https://github.com/deraren/We-Bring-The-Drama/blob/main/Data%20Cleaning%20.ipynb)
 
-[Initial Discovery.ipynb - Initial exploratory data analysis with sub-problems.](https://github.com/deraren/We-Bring-The-Drama/blob/main/Initial%20Discovery%20.ipynb)
+2.[Initial Discovery - Initial exploratory data analysis with sub-problems.](https://github.com/deraren/We-Bring-The-Drama/blob/main/Initial%20Discovery%20.ipynb)
 
-[Main Problem.ipynb - Exploration of our main problem definition.](https://github.com/deraren/We-Bring-The-Drama/blob/main/Main%20Problem.ipynb)
+3.[Main Problem - Exploration of our main problem definition.](https://github.com/deraren/We-Bring-The-Drama/blob/main/Main%20Problem.ipynb)
 
-[NLP for Dramas.ipynb - Use of NLP in classification model and recommender function.](https://github.com/deraren/We-Bring-The-Drama/blob/main/NLP%20for%20Dramas.ipynb)
+4.[NLP for Dramas - Use of NLP in classification model and recommender function.](https://github.com/deraren/We-Bring-The-Drama/blob/main/NLP%20for%20Dramas.ipynb)
 
 ## Contributors
 @deraren Darren Ng
