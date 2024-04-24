@@ -14,22 +14,24 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 4.[NLP for Dramas - Use of NLP in classification model and recommender function.](https://github.com/deraren/We-Bring-The-Drama/blob/main/NLP%20for%20Dramas.ipynb)
 
 ## Contributors
-@deraren Darren Ng
+  -@deraren-Darren Ng
 
-@alvis Alvis Cheng
+  -@alvis-Alvis Cheng
 
-@Kappro Glenn Lim
+  -@KapproGlenn Lim
 
 ## Problem Definition
+
 - Can we use various publicly accessible statistics to predict how well-perceived a K-Drama will be?
 
-Exploratory Sub-problems
-Number of Episodes vs Cast Popularity
-Episode Runtime vs Popularity
-Average Rating vs Popularity
-Cast Popularity vs Popularity
-Popularity vs Rating Count
-Popularity vs Number of Seasons
+## Exploratory Sub-problems
+
+1.Number of Episodes vs Cast Popularity
+2.Episode Runtime vs Popularity
+3.Average Rating vs Popularity
+4.Cast Popularity vs Popularity
+5.Popularity vs Rating Count
+6.Popularity vs Number of Seasons
 
 ## Models Used
 1. Linear Regression
