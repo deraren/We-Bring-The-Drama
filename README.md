@@ -1,8 +1,8 @@
-# Welcome to our Drama Analysis Repository
+# Welcome to our Korean Drama Analysis Repository
 
 ## About
 
-This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on dramas from [The Movie Database](https://www.kaggle.com/datasets/robertonacu/tmdb-kdramas-2022?select=networks.csv). 
+This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Korean drama data from this Kaggle [dataset](https://www.kaggle.com/datasets/robertonacu/tmdb-kdramas-2022?select=networks.csv) that was curated from [The Movie Database]([https://themoviedb.org](https://www.themoviedb.org))
 
 ## Notebooks Flow
 1. [Data Cleaning](https://github.com/deraren/We-Bring-The-Drama/blob/main/Data%20Cleaning%20.ipynb)         - Compilation of necessary data from 5 CSVs.
