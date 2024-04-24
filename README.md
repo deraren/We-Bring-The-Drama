@@ -27,11 +27,17 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 ## Exploratory Sub-problems
 
 1.Number of Episodes vs Cast Popularity
+
 2.Episode Runtime vs Popularity
+
 3.Average Rating vs Popularity
+
 4.Cast Popularity vs Popularity
+
 5.Popularity vs Rating Count
+
 6.Popularity vs Number of Seasons
+
 
 ## Models Used
 1. Linear Regression
